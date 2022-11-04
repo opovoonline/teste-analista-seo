@@ -7,7 +7,7 @@ Você deverá desenvolver 3 hipóteses para um problema de audiência no portal.
 
 ### Descrição geral
 
-O time de produto fez uma reunião com a redação e viu que no dashboard de audiência geral, o portal vem caindo 30% no número de pageviews.
+O time de produto fez uma reunião com a redação e viu que no dashboard de audiência geral, o portal vem caindo 30% no número de pageviews, relação em Setembro-Outubro.
 Com base nesses detalhes, apresente um plano de ação com 3 hipóteses principais desse problema, ou seja, demonstre como você faria para propor ou sugerir soluções, através de uma análise e de um processo de pesquisa para identificação de melhorias e oportunidades.
 
 O formato da apresentação deve ser em PDF.
